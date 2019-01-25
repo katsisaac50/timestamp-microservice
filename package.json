@@ -1,4 +1,7 @@
 {
-  "name": "",
-  "version": ""
+  "name": "timestamp-microservice",
+  "version": "",
+  "engines": {
+    "node": "10.10.0"
+  }
 }
